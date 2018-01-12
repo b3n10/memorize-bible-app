@@ -1,0 +1,19 @@
+{
+  "name": "biblemem",
+  "version": "1.0.0",
+  "description": "Help followers of Christ to memorize scriptures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "Christian"
+  ],
+  "author": "Ben Lleve",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
+}
